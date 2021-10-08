@@ -1,8 +1,5 @@
-# HactoberFest-2K21-5-1- Repo for Hactoberfest 
 
 
-### CPP,JAVA Python Programs having interview Quetions on various datas structures and algorithm.
-### Repo also includes System Design Interview Questions.
 
 
 <h1 align="center">
@@ -10,6 +7,10 @@
 </h1>
 
 
+
+### CPP,JAVA Python Programs having interview Quetions on various datas structures and algorithm.
+### Repo also includes System Design Interview Questions. 
+<br>
 <h2 align="center">
   Well-Structured Generic Problems with Solution in Java, C++ and Python ✨
 </h2>
