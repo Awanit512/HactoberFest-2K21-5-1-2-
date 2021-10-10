@@ -3,16 +3,16 @@
 
 
 <h1 align="center">
-    👩‍💻💜 Hactoberfest 💜👨‍💻
+    👩‍💻💜 Hacktoberfest 💜👨‍💻
 </h1>
 
 
 
-### CPP,JAVA Python Programs having interview Quetions on various datas structures and algorithm.
+### CPP,JAVA Python Programs Interview Questions including datas structures and algorithm.
 ### Repo also includes System Design Interview Questions. 
 <br>
 <h2 align="center">
-  Well-Structured Generic Problems with Solution in Java, C++ and Python ✨
+  Well-Structured Generic Problems with Solutions in Java, C++ and Python ✨
 </h2>
 
 </br>
@@ -27,11 +27,11 @@ https://github.com/Awanit512/HactoberFest-2K21-5-1-2-
 and that counts as your first PR. 🎯
 </br>
 
-## Contributing to Hacktoberfest 2020 👨🏼‍💻
+## Contributing to Hacktoberfest 2021 👨🏼‍💻
 
  <img src="hacktober.png" />
  Open source is changing the world - one pull request at a time.
-🧑🏼‍🚀 Hacktoberfest encourages participation in the open source community, which grows bigger every year. Complete the 2020 challenge and earn a limited edition T-shirt.
+🧑🏼‍🚀 Hacktoberfest encourages participation in the open source community, which grows bigger every year. Complete the 2021 challenge and earn a limited edition T-shirt.
 
 </br>
 
@@ -43,7 +43,7 @@ and that counts as your first PR. 🎯
 
 ## Instructions: 🙅🏼 🙅🏼‍♂️
 
-### 0️⃣ ⏩Register yourself for Hacktoberfest 2020
+### 0️⃣ ⏩Register yourself for Hacktoberfest 2021
 
 ###### Link to register: https://hacktoberfest.digitalocean.com/
 
@@ -60,7 +60,7 @@ and that counts as your first PR. 🎯
 
 ###### GitHub repository URLs will reference both the username associated with the owner of the repository, as well as the repository name.
 
-###### When you’re on the main page for the repository, you’ll see a button to "Star" and “Fork” the repository on your upper right-hand side of the page, underneath your user icon.
+###### When you’re on the main page of the repository, you’ll see a button to "Star" and “Fork” the repository on your upper right-hand side of the page, underneath your user icon.
 
 ### 3. 🔰Clone the Repository
 
@@ -80,7 +80,7 @@ https://github.com/your-username/CodeToGrow
 
 ### 4. 🔀Create a New Branch
 
-###### To create your branch, from your terminal window, change your directory so that you are working in the directory of the repository. Be sure to use the actual name of the repository (i.e. CodeToGrow) to change into that directory.
+###### To create your own branch, from your terminal window, change your directory so that you are working in the directory of the repository. Be sure to use the actual name of the repository (i.e. CodeToGrow) to change into that directory.
 
 ##### ` cd CodeToGrow`
 
@@ -105,7 +105,7 @@ https://github.com/your-username/CodeToGrow
 ##### Open the folder in VS code manually or use `code .` in command prompt it will directly open the all the files in editor.
 ##### Add solution file(with .java/.cpp/.py extention) to the already available question in any directory ***OR*** add a folder with question name as folder, add `Question.md`or`Question.txt` file which contains question in text along with sample input and output also add solution in any of the language mentioned. The file flow after this should look like:
 
-- Recurion Backtracking
+- Recursion Backtracking
   - N-Queen(this will be folder of question)
     - `Question.md`
     - `NQueen.java`
@@ -113,14 +113,14 @@ https://github.com/your-username/CodeToGrow
     - `NQueen.py`
   - another question folder...
 
-##### One need not to upload answers in all three languages, solution in any one language is fine. 
-###### Once you have modified existing files or added new files to the project, you can add them to your local repository, which you can do with the git add command. Let’s add the -A flag to add all changes that we have made:
+##### One need not upload answers in all three languages, solution in any one language is fine. 
+###### Once you have modified existing files or added new files to the project, you can add them to your local repository. You can do with the git add command. Let’s add the -A flag to add all changes that we have made:
 
 ##### `git add -A` or `git add .`
 
 ###### Next, we’ll want to record the changes that we made to the repository with the git commit command.
 
-###### The commit message is an important aspect of your code contribution; it helps the other contributors fully understand the change you have made, why you made it, and how significant it is. Additionally, commit messages provide a historical record of the changes for the project at large, helping future contributors along the way. Thus, you must ensure that you write a meaningful commit message.
+###### The commit message is an important aspect of your code contribution; it helps the other contributors to fully understand the change you have made, why you made it, and how significant it is. Additionally, commit messages provide a historical record of the changes for the project at large, helping future contributors along the way. Thus, you must ensure that you write a meaningful commit message.
 
 ###### If you have a very short message, you can record that with the -m flag and the message in quotes:
 
@@ -140,11 +140,11 @@ https://github.com/your-username/CodeToGrow
 
 ###### While working on a project alongside other contributors, it is important for you to keep your local repository up-to-date with the project as you don’t want to make a pull request for code that will cause conflicts. To keep your local copy of the code base updated, you’ll need to sync changes.
 
-###### We’ll first go over configuring a remote for the fork, then syncing the fork.
+###### We’ll first go over configuring a remote to the fork, then syncing the fork.
 
-### 6. 👇🏻Configure a Remote for the Fork
+### 6. 👇🏻Configure a Remote Repository to the Forked Repository
 
-###### Next, you’ll have to specify a new remote upstream repository for us to sync with the fork. This will be the original repository that you forked from. you’ll have to do this with the git remote add command.
+###### Next, you’ll have to specify a new remote upstream repository for us to sync with the fork. This will be the original repository that you forked from. You’ll have to do this with the git remote add command.
 
 ##### ` git remote add upstream https://github.com/YABHAKRITI-Robotics-Club/CodeToGrow`
 
@@ -152,7 +152,7 @@ https://github.com/your-username/CodeToGrow
 
 ### 7. 👇🏻Sync the Fork
 
-###### Once you have configured a remote that references the upstream and original repository on GitHub, you are ready to sync your fork of the repository to keep it up-to-date.
+###### Once you have configured a remote repository that references the upstream and original repository on GitHub, you are ready to sync your fork of the repository to keep it up-to-date.
 
 ###### To sync your fork, from the directory of your local repository in a terminal window, you’ll have to use the // git fetch // command to fetch the branches along with their respective commits from the upstream repository. Since you used the shortname “upstream” to refer to the upstream repository, you’ll have to pass that to the command:
 
