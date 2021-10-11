@@ -1,6 +1,6 @@
 """
 Author : Siddharth Sharma
-Date : 09/10/2021
+Date : 11/10/2021
 Description : Bubble Sort algorithm implementation in Python.
 """
 def bubbleSort(array):
