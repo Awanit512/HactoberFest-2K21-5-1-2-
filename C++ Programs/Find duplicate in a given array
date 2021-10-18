@@ -1,0 +1,21 @@
+#include<bits/stdc++.h>
+using namespace std;
+int XorMethod(vector<int> A){
+    int ans=A[0];
+    for(int k=1;k<A.size();k++){
+        ans=(ans^A[k])^k;
+    }
+    return ans;
+}
+int main(){
+    int n;
+    cout<<"Enter the size of the array : "<<endl;
+    cin>>n;
+    vector<int>v(n);
+    cout<<"Enter the elements of the array with space between them : "<<endl;
+    for(int i=0;i<n;i++){
+        cin>>v[i];
+    }
+    cout<<"Duplicate number is : "<<XorMethod(v)<<endl;
+    return 0;
+}
